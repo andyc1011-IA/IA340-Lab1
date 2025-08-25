@@ -13,3 +13,7 @@ This is the Lab 1 for IA 340
   - I have a certification for Scuba diving up to 100 ft through [PADI](https://store.padi.com/en-us/en/courses/?gad_source=1&gad_campaignid=20454468472&gbraid=0AAAAADlHlQIeDLLQadZt7GApFWzP_wuE-&gclid=CjwKCAjwk7DFBhBAEiwAeYbJsQ_0H2Aj4ZF0sSEyz7ZA-fTAyyFQTdiHbjAn4iLm4Y9_LIHlUGNHfxoCXysQAvD_BwE)
   - I play the double bass in orchestra and have performed with Cirque Du Solei for my youth orchestra
   - I speak french (barely)
+  - My three Favorite Foods are:
+  1. Penne alla Vodka with Chicken
+  2. Green Chilli Stew (grandmothers recipe)
+  3. Pizza with hot oil as the topping
