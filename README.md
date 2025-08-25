@@ -2,7 +2,7 @@
 This is the Lab 1 for IA 340
 
 ## Purpose
-- To practice markdown syntax
+- To practice **markdown syntax**
 - To complete the lab activity
 - To get more comfortable communicating within an operating system
 
